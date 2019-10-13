@@ -1,0 +1,3 @@
+Nombre: Claudia
+Age: 32
+Favorite Color: Purple
